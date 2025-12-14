@@ -9,10 +9,6 @@ Projeto simples que contém os modos claro e escuro utilizando JavaScript e CSS.
   <a href="#-projeto">Projeto</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
 
 <p align="center">
